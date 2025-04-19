@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#B7B7B7" /> <!-- 线的颜色，可以改成你需要的颜色 -->
+        <size android:height="4dp" /> <!-- 线的高度 -->
+    </shape>
+</selector>
